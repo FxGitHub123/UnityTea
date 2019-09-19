@@ -1,0 +1,89 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+Builds/
+
+# =============== #
+# Source assets #
+# =============== #
+_Archive/
+_EdBackups/
+_Screenshots/
+_WorkInProgress/
+
+
+# =============== #
+# FMOD #
+# =============== #
+#MyAudio/
+fmod.log
+fmod_editor.log
+Assets/StreamingAssets/build_info.txt
+Assets/StreamingAssets/build_info.txt.meta
+Assets/FMODStudioCache.asset
+Assets/FMODStudioCache.asset.meta
+
+
+
+# =============== #
+# VSCode #
+# =============== #
+.vscode/
+
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+/.vs/
+.consulo/
+*.tmp
+*.pdb
+sysinfo.txt
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# Android #
+# ============ #
+/Android/
+/Project/
+/MeshExporter
+~$*.*
+
+
+# ============ #
+# CI #
+# ============ #
+DownloadAssets
+/_Archive/
+/iPhoneBuild/
+/Build/
+Assets/Yodo1SDK/Editor/AndroidAPI/Build/yodo1config/editor_config.properties
+Assets/Yodo1SDK/Editor/AndroidAPI/Build/yodo1config/editor_config.properties.meta
